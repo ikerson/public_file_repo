@@ -1,0 +1,12 @@
+error_code,description
+E001,Low-level memory access violation
+E002,Network timeout
+E003,Insufficient GPT buffers
+E004,Insufficient memory allocation
+E005,Hardware access error
+E006,Database connection timeout
+E007,GPU temperature threshold exceeded
+E008,Invalid API key provided
+E009,Unexpected token in JSON payload
+E999,Log trace error test
+E404,Error code reference not found
