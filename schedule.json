@@ -1,0 +1,486 @@
+[
+    {
+        "date": "2025-01-01",
+        "label": "Vacation"
+    },
+    {
+        "date": "2025-01-02",
+        "label": "Vacation"
+    },
+    {
+        "date": "2025-01-03",
+        "label": "Vacation"
+    },
+    {
+        "date": "2025-01-04",
+        "label": "Vacation"
+    },
+    {
+        "date": "2025-01-05",
+        "label": "Vacation"
+    },
+    {
+        "date": "2025-01-06",
+        "label": "First day of classes"
+    },
+    {
+        "date": "2025-01-07",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-01-08",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-01-09",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-01-10",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-01-11",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-01-12",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-01-13",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-01-14",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-01-15",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-01-16",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-01-17",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-01-18",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-01-19",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-01-20",
+        "label": "Holiday"
+    },
+    {
+        "date": "2025-01-21",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-01-22",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-01-23",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-01-24",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-01-25",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-01-26",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-01-27",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-01-28",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-01-29",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-01-30",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-01-31",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-02-01",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-02-02",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-02-03",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-02-04",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-02-05",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-02-06",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-02-07",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-02-08",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-02-09",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-02-10",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-02-11",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-02-12",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-02-13",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-02-14",
+        "label": "Exams"
+    },
+    {
+        "date": "2025-02-15",
+        "label": "Exams"
+    },
+    {
+        "date": "2025-02-16",
+        "label": "Exams"
+    },
+    {
+        "date": "2025-02-17",
+        "label": "Exams"
+    },
+    {
+        "date": "2025-02-18",
+        "label": "Exams"
+    },
+    {
+        "date": "2025-02-19",
+        "label": "Exams"
+    },
+    {
+        "date": "2025-02-20",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-02-21",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-02-22",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-02-23",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-02-24",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-02-25",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-02-26",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-02-27",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-02-28",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-03-01",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-03-02",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-03-03",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-03-04",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-03-05",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-03-06",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-03-07",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-03-08",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-03-09",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-03-10",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-03-11",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-03-12",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-03-13",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-03-14",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-03-15",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-03-16",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-03-17",
+        "label": "Holiday"
+    },
+    {
+        "date": "2025-03-18",
+        "label": "Holiday"
+    },
+    {
+        "date": "2025-03-19",
+        "label": "Holiday"
+    },
+    {
+        "date": "2025-03-20",
+        "label": "Holiday"
+    },
+    {
+        "date": "2025-03-21",
+        "label": "Holiday"
+    },
+    {
+        "date": "2025-03-22",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-03-23",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-03-24",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-03-25",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-03-26",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-03-27",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-03-28",
+        "label": "Exams"
+    },
+    {
+        "date": "2025-03-29",
+        "label": "Exams"
+    },
+    {
+        "date": "2025-03-30",
+        "label": "Exams"
+    },
+    {
+        "date": "2025-03-31",
+        "label": "Exams"
+    },
+    {
+        "date": "2025-04-01",
+        "label": "Exams"
+    },
+    {
+        "date": "2025-04-02",
+        "label": "Exams"
+    },
+    {
+        "date": "2025-04-03",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-04-04",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-04-05",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-04-06",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-04-07",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-04-08",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-04-09",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-04-10",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-04-11",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-04-12",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-04-13",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-04-14",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-04-15",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-04-16",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-04-17",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-04-18",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-04-19",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-04-20",
+        "label": "Weekend"
+    },
+    {
+        "date": "2025-04-21",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-04-22",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-04-23",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-04-24",
+        "label": "Instruction"
+    },
+    {
+        "date": "2025-04-25",
+        "label": "Exams"
+    },
+    {
+        "date": "2025-04-26",
+        "label": "Exams"
+    },
+    {
+        "date": "2025-04-27",
+        "label": "Exams"
+    },
+    {
+        "date": "2025-04-28",
+        "label": "Exams"
+    },
+    {
+        "date": "2025-04-29",
+        "label": "Exams"
+    },
+    {
+        "date": "2025-04-30",
+        "label": "Exams"
+    },
+    {
+        "date": "2025-05-01",
+        "label": "End of term"
+    }
+]
